@@ -55,21 +55,11 @@ I am a passionate DevOps Engineer with experience in automating, optimizing, and
 
 ---
 
-### 🏆 Achievements
+### 🌟 Unique Visitor Counter
 
-- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/your-badge-id)
-- [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/your-badge-id)
-- [Terraform Associate Certification](https://www.credly.com/badges/your-badge-id)
-
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Automating Infrastructure with Terraform and GitHub Actions](https://yourblog.com/post1)
-- [Getting Started with Kubernetes: A Beginner's Guide](https://yourblog.com/post2)
-- [CI/CD Pipelines with GitLab and Docker](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/omkar-shelke25/count.svg" alt="Unique Visitors" />
+</p>
 
 ---
 
