@@ -72,7 +72,4 @@ I am a passionate DevOps Engineer with experience in automating, optimizing, and
   <a href="https://leetcode.com/omkara18" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkar-shelke25&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-shelke25" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkar-shelke25&theme=onedark" alt="omkar-shelke25" /></a>
-</p>
+
