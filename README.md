@@ -19,9 +19,9 @@
 
 I am a passionate DevOps Engineer with experience in automating, optimizing, and deploying scalable and reliable infrastructure. I specialize in cloud technologies, CI/CD pipelines, and container orchestration.
 
-- 🔭 I’m currently working on **Terraform, Kubernetes, GitLab, GitHub Actions**
-- 🌱 I’m currently learning **Helm, GKE**
-- 💬 Ask me about **DevOps, Cloud Computing, CI/CD, Kubernetes, Terraform**
+- 🔭 I’m currently working on **Terraform, Kubernetes, GitLab,kustomize,Python,Jenkins**
+- 🌱 I’m currently learning **Helm, GKE,GO**
+- 💬 Ask me about **DevOps, Cloud Computing, CI/CD, Kubernetes, Terraform,GitLab**
 - 📫 How to reach me: **omkarshelke1125@gmail.com**
 - ⚡ Fun fact: I love automating repetitive tasks and exploring new technologies.
 
