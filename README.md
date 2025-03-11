@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Omkar Shelke</h1>
 <h3 align="center">DevOps Engineer | Systems Engineer at Infosys</h3>
 
@@ -21,9 +19,9 @@
 
 I am a passionate DevOps Engineer with experience in automating, optimizing, and deploying scalable and reliable infrastructure. I specialize in cloud technologies, CI/CD pipelines, and container orchestration.
 
-- 🔭 I’m currently working on **Terraform, Kubernetes, GitLab,kustomize,Python,Jenkins**
-- 🌱 I’m currently learning **Helm, GKE,GO**
-- 💬 Ask me about **DevOps, Cloud Computing, CI/CD, Kubernetes, Terraform,GitLab**
+- 🔭 I’m currently working on **Terraform, Kubernetes, GitLab, Kustomize, Python, Jenkins**
+- 🌱 I’m currently learning **Helm, GKE, Go**
+- 💬 Ask me about **DevOps, Cloud Computing, CI/CD, Kubernetes, Terraform, GitLab**
 - 📫 How to reach me: **omkarshelke1125@gmail.com**
 - ⚡ Fun fact: I love automating repetitive tasks and exploring new technologies.
 
@@ -43,6 +41,8 @@ I am a passionate DevOps Engineer with experience in automating, optimizing, and
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
   <a href="https://helm.sh" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/> </a>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a>
+  <a href="https://kustomize.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/argoproj/argoproj-icons/main/kustomize.svg" alt="kustomize" width="40" height="40"/> </a>
 </p>
 
 ---
@@ -65,4 +65,3 @@ I am a passionate DevOps Engineer with experience in automating, optimizing, and
   <a href="https://instagram.com/omkara_25" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://leetcode.com/omkara18" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
-
