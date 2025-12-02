@@ -30,17 +30,14 @@ metadata:
     location: Pune, India
 spec:
   company: Infosys
-  client: Pfizer
   experience: 3+ years
   focus:
     - Kubernetes & Container Orchestration
     - Cloud Native Application Deployment
     - CI/CD Pipeline Automation
     - Service Mesh & API Gateway Management
-  mission: "Helping data science teams deploy ML applications on Kubernetes"
 ```
 
-Currently working with **Pfizer's data science teams** to containerize and deploy ML applications on **GKE** and **Rancher RKE2** clusters. I design scalable, secure, and automated deployment pipelines that help teams ship faster and more reliably.
 
 ---
 
@@ -147,23 +144,6 @@ Each lab includes:
 
 ---
 
-## 💡 Currently Working On
-
-```bash
-$ kubectl get projects --namespace=personal
-NAME                          STATUS    AGE
-kubernetes-labs               Active    365d
-mlops-deployment-toolkit      Active    90d
-k8s-security-best-practices   Active    45d
-```
-
-- 🔭 Expanding my Killercoda lab collection with advanced networking and security scenarios
-- 🌱 Deep diving into eBPF and Cilium for advanced networking
-- 👯 Looking to collaborate on cloud-native and Kubernetes open-source projects
-- 💬 Ask me about Kubernetes, Docker, Helm, Istio, or CKAD preparation
-
----
-
 ## 📫 Let's Connect
 
 Whether you're looking to collaborate on open-source projects, need help with Kubernetes, or just want to chat about cloud-native technologies - I'd love to hear from you!
@@ -186,6 +166,6 @@ Whether you're looking to collaborate on open-source projects, need help with Ku
 
 ---
 
-⭐️ From [omkar-shelke](https://github.com/yourusername) | Made with ❤️ and ☸️
+⭐️ From [omkar-shelke](https://github.com/omkar-shelke25) | Made with ❤️ and ☸️
 
 </div>
