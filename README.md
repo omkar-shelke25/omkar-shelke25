@@ -47,7 +47,6 @@ spec:
 🔹 **CI/CD Automation** - Build deployment pipelines with GitOps using ArgoCD and Helm  
 🔹 **Service Mesh & API Gateways** - Configure Istio, Kong, and NGINX for traffic management and security  
 🔹 **Observability** - Implement monitoring and alerting with Prometheus and Grafana  
-🔹 **ML/AI Workloads** - Help data scientists containerize Python applications and manage stateful workloads  
 🔹 **Security & Compliance** - Implement RBAC, NetworkPolicies, and security best practices  
 
 ---
