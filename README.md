@@ -10,6 +10,8 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-shelke-2503s)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarshelke1125@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/omkara_25)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/omkara25)
 [![Killercoda](https://img.shields.io/badge/Killercoda-70%2B_Labs-FF6B35?style=for-the-badge&logo=kubernetes&logoColor=white)](https://killercoda.com/omkar-shelke25)
 ![Profile Views](https://komarev.com/ghpvc/?username=omkar-shelke25&color=326ce5&style=for-the-badge)
 
@@ -67,6 +69,7 @@ $ kubectl get skills --all-namespaces
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
 
 ### ☁️ Cloud Platforms
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -75,7 +78,11 @@ $ kubectl get skills --all-namespaces
 ### 🔄 CI/CD & GitOps
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### 🌐 Service Mesh & API Gateways
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
@@ -140,11 +147,21 @@ Each lab includes:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=326CE5&icon_color=326CE5)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkar-shelke25&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=326CE5&fire=326CE5&currStreakLabel=326CE5)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=omkar-shelke25&theme=vision-friendly-dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=326CE5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-shelke25&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omkar-shelke25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
@@ -172,8 +189,8 @@ Whether you're looking to collaborate on open-source projects, need help with Ku
 
 ---
 
-⭐️ From [omkar-shelke](https://github.com/omkar-shelke25) | Made with ❤️ and ☸️
+[![](https://visitcount.itsvg.in/api?id=omkar-shelke25&icon=4&color=0)](https://visitcount.itsvg.in)
+
+⭐️ From [omkar-shelke25](https://github.com/omkar-shelke25) | Made with ❤️ and ☸️
 
 </div>
-
-
