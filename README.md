@@ -161,29 +161,7 @@ Each lab includes:
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omkar-shelke25&theme=merko&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-Whether you're looking to collaborate on open-source projects, need help with Kubernetes, or just want to chat about cloud-native technologies - I'd love to hear from you!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-shelke-2503s)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarshelke1125@gmail.com)
-[![Killercoda](https://img.shields.io/badge/Killercoda-Practice-FF6B35?style=for-the-badge&logo=kubernetes&logoColor=white)](https://killercoda.com/omkar-shelke25)
-
-</div>
 
 ---
 
