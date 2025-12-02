@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-```diff
+```bash
 $ cat profile.yaml
 ```
 
@@ -29,20 +29,28 @@ $ cat profile.yaml
 apiVersion: v1
 kind: Developer
 metadata:
-  name: omkar-shelke
+  name: "Omkar Shelke 👨‍💻"
   labels:
-    role: kubernetes-developer
-    certification: CKAD
-    location: Pune, India
+    role: "Kubernetes Developer 🧩"
+    certification: "CKAD Certified 🎓"
+    location: "Pune, India 📍"
 spec:
-  company: Infosys
-  experience: 3+ years
-  focus:
-    - Kubernetes & Container Orchestration
-    - Cloud Native Application Deployment
-    - CI/CD Pipeline Automation
-    - Service Mesh & API Gateway Management
-```
+  company: "Infosys 🏢"
+  experience: "3+ Years in Cloud Native ☁️"
+  skills:
+    - "Kubernetes & Container Orchestration 🚢"
+    - "Cloud Native Application Deployment ☁️📦"
+    - "CI/CD Pipeline Automation 🔄"
+    - "GitOps with ArgoCD & Flux 🚀"
+    - "Service Mesh (Istio/Linkerd) & API Gateways 🌐"
+    - "Observability: Prometheus + Grafana + Loki 📊"
+    - "Helm Chart Development & Management ⛵"
+    - "Infrastructure as Code (Terraform) 🏗️"
+  currentlyLearning:
+    - "CKA & CKS Certifications 🎯"
+    - "eBPF & Cilium Deep Dive 🐝"
+  funFact: "Writes YAML in sleep 😴"
+```yaml
 
 ---
 
