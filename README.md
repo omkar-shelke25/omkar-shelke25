@@ -50,7 +50,7 @@ spec:
     - "CKA & CKS Certifications 🎯"
     - "eBPF & Cilium Deep Dive 🐝"
   funFact: "Writes YAML in sleep 😴"
-```yaml
+```
 
 ---
 
