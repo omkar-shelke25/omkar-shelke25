@@ -109,6 +109,17 @@ $ kubectl get skills --all-namespaces
 </div>
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=omkar-shelke25&theme=vision-friendly-dark&hide_border=false)
+
+
+</div>
+
+---
 
 ## 🎓 Certifications
 
@@ -148,20 +159,6 @@ Each lab includes:
 - Immediate feedback on your work
 
 > *"Learning by doing is the best way to master Kubernetes!"*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=omkar-shelke25&theme=vision-friendly-dark&hide_border=false)
-
-
-</div>
-
-
 
 ---
 
