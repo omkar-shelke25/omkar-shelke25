@@ -159,7 +159,7 @@ Each lab includes:
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omkar-shelke25&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omkar-shelke25&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
